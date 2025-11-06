@@ -10,7 +10,7 @@
 ### 현재의 도전: AI Place 설립을 통한 새로운 비즈니스 모델 구축 중
 
 ### 🗺️ 커리어 히스토리
-- 現/예정 / AI Place (대표 예정)
+- 現/예정 AI Place (대표)
 - 前 Deloitte (IT Auditor/Consultant)     
 - 前 특허청 (정보보안팀)   
 - 前 DBSafer (소프트웨어 개발팀)
@@ -53,7 +53,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=AstroVivi&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroVivi&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-learn&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
