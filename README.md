@@ -11,7 +11,7 @@
 
 ### 🗺️ 커리어 히스토리
 - 現/예정 AI Place (대표)
-- 前 Deloitte (IT Auditor/Consultant)     
+- 前 Deloitte 회계법인 (IT Auditor/Consultant)     
 - 前 특허청 (정보보안팀)   
 - 前 DBSafer (소프트웨어 개발팀)
       
