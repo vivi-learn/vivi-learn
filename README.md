@@ -9,6 +9,8 @@
 
 ### 현재의 도전: AI Place 설립을 통한 새로운 비즈니스 모델 구축 중
 
+<img width="1696" height="608" alt="logo_dark" src="https://github.com/user-attachments/assets/c9fc86b2-96d8-4df3-a9ee-53aebd608000" />
+
 ### 🗺️ 커리어 히스토리
 - 現 Astro AI Labs (대표) - https://ai-place.app
 - 前 Deloitte 회계법인 (IT Auditor/Consultant)     
