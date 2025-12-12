@@ -9,7 +9,14 @@
 
 ### 현재의 도전: AI Place 설립을 통한 새로운 비즈니스 모델 구축 중
 
-<img width="1696" height="608" alt="logo_dark" src="https://github.com/user-attachments/assets/c9fc86b2-96d8-4df3-a9ee-53aebd608000" />
+<a href="https://ai-place.app">
+    <img 
+        src="https://github.com/user-attachments/assets/c9fc86b2-96d8-4df3-a9ee-53aebd608000" 
+        alt="logo_dark"
+        width="1696"
+        height="608"
+    >
+</a>
 
 ### 🗺️ 커리어 히스토리
 - 現 Astro AI Labs (대표) - https://ai-place.app
