@@ -19,7 +19,7 @@
 </a>
 
 ### 🗺️ 커리어 히스토리
-- 現 Astro AI Labs (대표) - https://ai-place.app
+- 現 Astro AI Labs (대표)
 - 前 Deloitte 회계법인 (IT Auditor/Consultant)     
 - 前 특허청 (정보보안팀)   
 - 前 DBSafer (소프트웨어 개발팀)
