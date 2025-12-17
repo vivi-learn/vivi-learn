@@ -17,40 +17,40 @@
 </a>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 👤 Professional Profile </h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-        <div style="flex: 1; min-width: 300px;">
-            <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">🗺️ Career History</h3>
-            <div style="line-height: 1.8; color: #c9d1d9;">
-                🚀 <b>現 Astro AI Labs</b> | 대표 <br/>
-                🏢 <b>前 Deloitte 회계법인</b> | IT Auditor & Consultant <br/>
-                🛡️ <b>前 특허청</b> | 정보보안팀 <br/>
-                💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀
-            </div>
-        </div>
-        <div style="flex: 1; min-width: 300px;">
-            <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📚 Education</h3>
-            <div style="line-height: 1.8; color: #c9d1d9;">
-                🎓 <b>아주대학교 정보통신대학원</b> <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp; 정보통신공학 석사 <br/>
-                🎓 <b>단국대학교</b> <br/>
-                &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터과학 학사
-            </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> 👤 Professional Profile </h2>
+    <div style="margin: 20px 0;">
+        <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 12px;">🗺️ Career History</h3>
+        <div style="line-height: 2; color: #c9d1d9; font-size: 15px; padding-left: 5px;">
+            🚀 <b>現 Astro AI Labs</b> | 대표 <br/>
+            🏢 <b>前 Deloitte 회계법인</b> | IT Auditor & Consultant <br/>
+            🛡️ <b>前 특허청</b> | 정보보안팀 <br/>
+            💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀
         </div>
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🏅 Certificates </h2>
-    <div style="padding: 10px 0; display: flex; gap: 5px;">
-        <img src="https://img.shields.io/badge/CISA-Certified%20Information%20Systems%20Auditor-00519E?style=for-the-badge&logo=target&logoColor=white" />
-        <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-8E44AD?style=for-the-badge" />
+    <div style="margin: 20px 0;">
+        <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 12px;">📚 Education</h3>
+        <div style="line-height: 2; color: #c9d1d9; font-size: 15px; padding-left: 5px;">
+            🎓 <b>아주대학교 정보통신대학원</b> · 정보통신공학 석사 <br/>
+            🎓 <b>단국대학교</b> · 컴퓨터과학 학학사
+        </div>
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🎯 Lifestyle & Hobbies </h2>
-    <div style="padding: 10px 0; color: #c9d1d9; line-height: 2;">
-        <b>🎮 Gaming:</b> Hack and Slash RPG Enthusiast <br/>
-        <b>🏃 Active Life:</b> 
-        <img src="https://img.shields.io/badge/Swimming-🏊‍♀️-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Snowboard-🏂-white?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scuba-🤿-0077B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gym-💪-orange?style=flat-square" />
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px; margin-top: 40px;"> 📜 Certificates </h2>
+    <div style="padding: 15px 0; display: flex; gap: 8px; flex-wrap: wrap;">
+        <img src="https://img.shields.io/badge/CISA-00519E?style=for-the-badge&logo=isaca&logoColor=white" alt="CISA" />
+        <img src="https://img.shields.io/badge/정보처리기사-8E44AD?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Engineer Information Processing" />
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px; margin-top: 40px;"> 🎯 Lifestyle & Hobbies </h2>
+    <div style="padding: 15px 0; color: #c9d1d9; font-size: 15px;">
+        <div style="margin-bottom: 15px;">
+            <b>🎮 Gaming:</b> Hack and Slash RPG Enthusiast
+        </div>
+        <div style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center;">
+            <b style="margin-right: 10px;">🏃 Active Life:</b>
+            <img src="https://img.shields.io/badge/Swimming-0077B6?style=flat-square&logo=swimtrack&logoColor=white" />
+            <img src="https://img.shields.io/badge/Snowboard-607D8B?style=flat-square&logo=skischool&logoColor=white" />
+            <img src="https://img.shields.io/badge/Scuba-009688?style=flat-square&logo=air-baltic&logoColor=white" />
+            <img src="https://img.shields.io/badge/Gym-E67E22?style=flat-square&logo=strong-text&logoColor=white" />
+        </div>
     </div>
 </div>
 
