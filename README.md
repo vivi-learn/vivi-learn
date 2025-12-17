@@ -34,11 +34,6 @@
             🎓 <b>단국대학교</b> · 컴퓨터과학 학학사
         </div>
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px; margin-top: 40px;"> 📜 Certificates </h2>
-    <div style="padding: 15px 0; display: flex; gap: 8px; flex-wrap: wrap;">
-        <img src="https://img.shields.io/badge/CISA-00519E?style=for-the-badge&logo=isaca&logoColor=white" alt="CISA" />
-        <img src="https://img.shields.io/badge/정보처리기사-8E44AD?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Engineer Information Processing" />
-    </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px; margin-top: 40px;"> 🎯 Lifestyle & Hobbies </h2>
     <div style="padding: 15px 0; color: #c9d1d9; font-size: 15px;">
         <div style="margin-bottom: 15px;">
