@@ -31,6 +31,14 @@
 ### 🎯 취미 
 - Hack and Slash RPG Games
 - Active Life: 🏊‍♀️ 수영, 🏂 스노우보드, 🤿 스킨스쿠버, 💪 헬스
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📜 Certificates </h2>
+    <div style="padding: 10px 0;">
+        <img src="https://img.shields.io/badge/CISA-Certified%20Information%20Systems%20Auditor-00519E?style=for-the-badge&logo=target&logoColor=white" />
+        <img src="https://img.shields.io/badge/Engineer%20Information%20Processing-정보처리기사-607D8B?style=for-the-badge&logo=checkmarx&logoColor=white" />
+    </div>
+</div>
   
   </div> 
     </div>
