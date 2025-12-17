@@ -16,41 +16,47 @@
     >
 </a>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👤 Professional Profile </h2>  
-    <table style="border-collapse: collapse; width: 100%; border-style: hidden;">
-        <tr>
-            <td style="width: 50%; vertical-align: top; border-style: hidden;">
-                <h3 style="color: #58a6ff;">🗺️ Career History</h3>
-                <ul style="line-height: 1.6; list-style-type: none; padding-left: 0;">
-                    <li>🚀 <b>現 Astro AI Labs</b> | 대표</li>
-                    <li>🏢 <b>前 Deloitte 회계법인</b> | IT Auditor & Consultant</li>
-                    <li>🛡️ <b>前 특허청</b> | 정보보안팀</li>
-                    <li>💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀</li>
-                </ul>
-            </td>
-            <td style="width: 50%; vertical-align: top; border-style: hidden;">
-                <h3 style="color: #58a6ff;">📚 Education</h3>
-                <ul style="line-height: 1.6; list-style-type: none; padding-left: 0;">
-                    <li>🎓 <b>아주대학교 Graduate School</b><br/>&nbsp;&nbsp;&nbsp;&nbsp;<small>정보통신공학 석사</small></li>
-                    <li>🎓 <b>단국대학교</b><br/>&nbsp;&nbsp;&nbsp;&nbsp;<small>컴퓨터과학 학사</small></li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Certificates </h2>
-    <div style="padding: 10px 0;">
-        <img src="https://img.shields.io/badge/CISA-Certified%20Information%20Systems%20Auditor-00519E?style=flat-square&logo=target&logoColor=white" />
-        <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-8E44AD?style=flat-square" />
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 👤 Professional Profile </h2>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+        
+        <div style="flex: 1; min-width: 300px;">
+            <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">🗺️ Career History</h3>
+            <div style="line-height: 1.8; color: #c9d1d9;">
+                🚀 <b>現 Astro AI Labs</b> | 대표 <br/>
+                🏢 <b>前 Deloitte 회계법인</b> | IT Auditor & Consultant <br/>
+                🛡️ <b>前 특허청</b> | 정보보안팀 <br/>
+                💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀
+            </div>
+        </div>
+
+        <div style="flex: 1; min-width: 300px;">
+            <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📚 Education</h3>
+            <div style="line-height: 1.8; color: #c9d1d9;">
+                🎓 <b>아주대학교 정보통신대학원</b> <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp; 정보통신공학 석사 <br/>
+                🎓 <b>단국대학교</b> <br/>
+                &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터과학 학사
+            </div>
+        </div>
+
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎯 Lifestyle & Hobbies </h2>
-    <div style="padding: 10px 0; line-height: 1.8;">
+
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🏅 Certificates </h2>
+    <div style="padding: 10px 0; display: flex; gap: 5px;">
+        <img src="https://img.shields.io/badge/CISA-Certified%20Information%20Systems%20Auditor-00519E?style=for-the-badge&logo=target&logoColor=white" />
+        <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-8E44AD?style=for-the-badge" />
+    </div>
+
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🎯 Lifestyle & Hobbies </h2>
+    <div style="padding: 10px 0; color: #c9d1d9; line-height: 2;">
         <b>🎮 Gaming:</b> Hack and Slash RPG Enthusiast <br/>
         <b>🏃 Active Life:</b> 
-        <img src="https://img.shields.io/badge/Swimming-🏊‍♀️-blue?style=flat" />
-        <img src="https://img.shields.io/badge/Snowboard-🏂-white?style=flat" />
-        <img src="https://img.shields.io/badge/Scuba-🤿-0077B6?style=flat" />
-        <img src="https://img.shields.io/badge/Gym-💪-orange?style=flat" />
+        <img src="https://img.shields.io/badge/Swimming-🏊‍♀️-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Snowboard-🏂-white?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scuba-🤿-0077B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gym-💪-orange?style=flat-square" />
     </div>
 </div>
 
