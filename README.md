@@ -18,9 +18,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 👤 Professional Profile </h2>
-
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-        
         <div style="flex: 1; min-width: 300px;">
             <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">🗺️ Career History</h3>
             <div style="line-height: 1.8; color: #c9d1d9;">
@@ -30,7 +28,6 @@
                 💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀
             </div>
         </div>
-
         <div style="flex: 1; min-width: 300px;">
             <h3 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📚 Education</h3>
             <div style="line-height: 1.8; color: #c9d1d9;">
@@ -40,15 +37,12 @@
                 &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터과학 학사
             </div>
         </div>
-
     </div>
-
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🏅 Certificates </h2>
     <div style="padding: 10px 0; display: flex; gap: 5px;">
         <img src="https://img.shields.io/badge/CISA-Certified%20Information%20Systems%20Auditor-00519E?style=for-the-badge&logo=target&logoColor=white" />
         <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-8E44AD?style=for-the-badge" />
     </div>
-
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 5px;"> 🎯 Lifestyle & Hobbies </h2>
     <div style="padding: 10px 0; color: #c9d1d9; line-height: 2;">
         <b>🎮 Gaming:</b> Hack and Slash RPG Enthusiast <br/>
