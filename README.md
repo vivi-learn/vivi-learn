@@ -7,21 +7,16 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Bio </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
 
-<a href="https://ai-place.app">
-    <img 
-        src="https://github.com/user-attachments/assets/c9fc86b2-96d8-4df3-a9ee-53aebd608000" 
-        alt="logo_dark"
-        width="1696"
-        height="608"
-    >
-</a>
+        
+<img width="552" height="278" alt="card" src="https://github.com/user-attachments/assets/55ceb54f-91d8-467b-88d4-fcead96fe851" />
+
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> 👤 Professional Profile </h2>
     <div style="margin: 20px 0;">
         <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 12px;">🗺️ Career History</h3>
         <div style="line-height: 2; color: #c9d1d9; font-size: 15px; padding-left: 5px;">
-            🚀 <b>現 Astro AI Labs</b> | 대표 <br/>
+            🚀 <b>現 Kompli</b> | 대표 <br/>
             🏢 <b>前 Deloitte 회계법인</b> | IT Auditor & Consultant <br/>
             🛡️ <b>前 특허청</b> | 정보보안팀 <br/>
             💻 <b>前 DBSafer (PNPSECURE)</b> | SW 개발팀
@@ -31,7 +26,7 @@
         <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 12px;">📚 Education</h3>
         <div style="line-height: 2; color: #c9d1d9; font-size: 15px; padding-left: 5px;">
             🎓 <b>아주대학교 정보통신대학원</b> · 정보통신공학 석사 <br/>
-            🎓 <b>단국대학교</b> · 컴퓨터과학 학학사
+            🎓 <b>단국대학교</b> · 컴퓨터과학 학사
         </div>
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px; margin-top: 40px;"> 🎯 Lifestyle & Hobbies </h2>
