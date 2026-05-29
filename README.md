@@ -6,11 +6,6 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Bio </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-
-        
-<img width="552" height="278" alt="card" src="https://github.com/user-attachments/assets/55ceb54f-91d8-467b-88d4-fcead96fe851" />
-
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> 👤 Professional Profile </h2>
     <div style="margin: 20px 0;">
